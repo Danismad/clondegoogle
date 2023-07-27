@@ -12,7 +12,7 @@ Google-Clone is a project developed as part of the summer camp organized by Tech
 TECNOLOchicas is a program with the aim of inspiring and creating opportunities for young Latinas to consider pursuing careers in STEM (Science, Technology, Engineering, and Mathematics)
 
 ## Let me introduce you to... Googleclone ##
-![Screenshoot of the project](<>)
+![Screenshoot of the project](<https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_Homepage.svg/320px-Google_Homepage.svg.png>)
 
 ## Features ##
 * Recreates the main Google homepage with HTML and CSS.
